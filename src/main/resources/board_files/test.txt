@@ -1,0 +1,21 @@
+20 30
+e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e
+e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e
+e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e
+e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e
+e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e
+e e e e e e e w w w w w w w w w w w w w w w w w e e e e e e
+e e e e e e e w e e e e e e e e e e e e e e e w e e e e e e
+e e e e e e e w e e e e e e e e e e e e e e e w e e e e e e
+e e e e e e e w e e e e e e e e e e e e e e e w e e e e e e
+e e e e e e e w e e e e e e e e e e e e e e e w e e e e e e
+e e e e e e e w e e e e e e e e e e e e e e e w e e e e e e
+e e e e e e e w e e e e e e e e e e e e e e e w e e e e e e
+e e e e e e e w e e e e e e e e e e e e e e e w e e e e e e
+e e e e e e e w e e e e e e e e e e e e e e e e e e e e e e
+e e e e e e e w e e e e e e e e e e e e e e e w e e e e e e
+e e e e e e e w w w w w w w w w w w w w w w w w e e e e e e
+e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e
+e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e
+e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e
+e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e

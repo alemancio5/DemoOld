@@ -1,6 +1,6 @@
 ## DemoOld
 
-The old version of the experiment project DemoNew. It was focused onto RMI connection for multiplayer.
+Personal project focused on RMI connection for a multiplayer videogame.
 
 ## Use
 
